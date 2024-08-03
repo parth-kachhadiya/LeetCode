@@ -10,3 +10,5 @@ class Solution:
                 i += 1
 
             return j == len(s)
+
+print(Solution().isSubsequence('abc','ahbdge'))
